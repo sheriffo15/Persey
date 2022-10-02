@@ -18,4 +18,4 @@
 
 ## Фото
 
-<img src="file:///C:\Users\User\Desktop\изображение_viber_2022-10-03_00-14-30-478.jpg" />
+![изображение_viber_2022-10-03_00-14-30-478](https://user-images.githubusercontent.com/102829009/193477089-18ff7c02-b70a-4c1b-b034-be05b3964fc3.jpg)
